@@ -8,7 +8,7 @@ Unsigned-binary-multiplication-algorithm with C
 
 # 과정
 
-![1](https://github.com/rightear01/Unsigned-binary-multiplication/assets/104425093/414ad54c-8cdc-40c3-9b01-8528703f19ac)
+![1](https://github.com/rightear01/Unsigned-binary-multiplication/assets/104425093/414ad54c-8cdc-40c3-9b01-8528703f19ac){:width="60%"",height="40%""}
 
 입력받은 십진수를 이진수로 변환시에 계산을 해야할 비트의 개수가 부족하다면 beatSync()가 호출되어 비트수를 맞추어 줍니다.
 

@@ -6,6 +6,7 @@ Unsigned-binary-multiplication-algorithm with C
 
 캐리와 쉬프터 연산을 시각적으로 볼 수 있게 만들어 보았습니다.
 
+# 과정
 
 ![1](https://github.com/rightear01/Unsigned-binary-multiplication/assets/104425093/414ad54c-8cdc-40c3-9b01-8528703f19ac)
 
@@ -13,5 +14,6 @@ Unsigned-binary-multiplication-algorithm with C
 
 ![2](https://github.com/rightear01/Unsigned-binary-multiplication/assets/104425093/343ced80-79d9-48a6-98d8-dd9fe7334fbd)
 
-결과
+# 결과
+
 ![2](https://github.com/rightear01/Unsigned-binary-multiplication/assets/104425093/2a156410-3888-46d4-a483-4cab54fe2d98)

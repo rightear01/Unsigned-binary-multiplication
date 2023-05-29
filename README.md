@@ -1,9 +1,3 @@
-/* 새 css class */
-.center {
-  display: block;
-  margin: auto;
-}
-
 # Unsigned-binary-multiplication
 
 Unsigned-binary-multiplication-algorithm with C
